@@ -487,8 +487,8 @@ const products = [
     {
         id: 30,
         name: "Комплект конструктор из страйп сатина с джакардовым",
-        price: 12000,
-        category: "Покрывала-одеяла",
+        price: 11500,
+        category: "Простыни",
         description: 'Цветное покрывало-одеяло, состав 100% хлопок, наполнение шелкопряд.  <a href="https://l.kaspi.kz/shop/2n89hUDj1uVyeDp?sessionId=6aba73f8-a447-413b-a9b3-a20f88ecc1591795772632" target="_blank">Kaspi</a>',
         size: "150x210 см",
         color: "розовые с зеленью",
