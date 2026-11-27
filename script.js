@@ -308,7 +308,7 @@ const products = [
     {
         id: 40,
         name: "Коврик для ванной махровый",
-        price: 9000,
+        price: 6900,
         category: "Коврики",
         description: 'Коврик для ванны хорошо впитывает влагу,быстро сохнет."<a href="https://kaspi.kz/shop/p/zami-home-kovrik-123zb26-85x55-sm-viskoza-voilok-154335271/?c=710000000" target="_blank">Kaspi</a>',
         size: "85×55 см",
