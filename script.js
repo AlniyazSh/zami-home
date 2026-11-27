@@ -293,7 +293,7 @@ const products = [
         name: "Коврик для ванной махровый",
         price: 9000,
         category: "Коврики",
-        description: "Коврик для ванной белый, махровый",
+        description: 'Коврик для ванной белый, махровый"<a href="https://l.kaspi.kz/shop/GgwKdQ7EmWG7HkU?sessionId=6aba73f8-a447-413b-a9b3-a20f88ecc1591795775025" target="_blank">Kaspi</a>',
         size: "60×90 см",
         color: "белый",
         icon: "fas fa-rug",
@@ -301,33 +301,26 @@ const products = [
          images: [
             "images/ков.jpg",
             "images/ков1.jpg",
-            "images/ков3.jpg"
+            "images/ков3.jpg",
+            "images/ков4.jpg"
         ]
     },
     {
         id: 40,
-        name: "Коврик для ванной хлопок/вискоза",
-        price: 3800,
+        name: "Коврик для ванной махровый",
+        price: 9000,
         category: "Коврики",
-        description: "Коврик для ванной хлопок/вискоза",
-        size: "50x80 см",
-        color: "серый в клеточку, бежевый в крапинку, бежевый однотонный",
+        description: 'Коврик для ванны хорошо впитывает влагу,быстро сохнет."<a href="https://kaspi.kz/shop/p/zami-home-kovrik-123zb26-85x55-sm-viskoza-voilok-154335271/?c=710000000" target="_blank">Kaspi</a>',
+        size: "85×55 см",
+        color: "белый",
         icon: "fas fa-rug",
-        image: "images/rug-cotton.jpg"
+        image: "images/ковв.jpg",
+         images: [
+            "images/ковв.jpg",
+            
+        ]
     },
-    {
-        id: 41,
-        name: "Коврик для ванной шерсть/вискоза",
-        price: 4900,
-        category: "Коврики",
-        description: "Коврик для ванной шерсть/вискоза",
-        size: "50x80 см",
-        color: "серый",
-        icon: "fas fa-rug",
-        image: "images/rug-wool.jpg"
-    },
-
-        // ПОКРЫВАЛА-ОДЕЯЛА
+    // ПОКРЫВАЛА-ОДЕЯЛА
     {
         id: 20,
         name: "Одеяло пуховое, гусиный пух 98%",
